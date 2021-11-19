@@ -1,0 +1,15 @@
+p
+{
+    background-color: blue;
+    font-family: arial; font-size: 22pt;
+
+}
+body{
+    background-color: blue;
+}
+a{
+    color: red;
+}
+a:hover{
+    color: green;
+}
